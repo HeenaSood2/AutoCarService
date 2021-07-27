@@ -1,0 +1,108 @@
+*
+{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:rgba(13, 7, 27, 0.082);
+  
+}
+#register1
+{
+    display :none;
+}
+.btn1
+{
+    border:none;
+    outline:none;
+    height:50px;
+    width:100%;
+    background-color: black;
+    color:white;
+    border-radius:4px;
+    font-weight:bold;
+}
+.btn1:hover{
+    background:white;
+    border:1px solid;
+    color:black;
+}
+.row
+{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 12px 12px 22px grey;
+}
+
+
+
+.sec
+{
+    margin-top: 50px;
+}
+.image{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+h3{
+    font-size:40px;
+    color:whilte;
+}
+#otpdiv
+{
+    display: none;
+}
+#enterotp
+{
+    display: none;
+}
+
+
+#verifyotp
+{
+    display:none;
+}
+#resend_otp
+{
+    display :none;
+}
+.countdown
+{
+    display:table;
+    width:100%;
+    text-align:left;
+    font-size:15px;
+}
+#resend_otp:hover
+{
+  text-decoration:underline;
+}
+
+
+
+ #team img{
+     margin-top:-50px;
+ }
+ 
+ #team p{
+     font-weight:500;
+ }
+ 
+ .card
+ {
+     border-radius: 0;
+     box-shadow: 5px 5px 15px #817b7b;
+     transition:all 0.3s ease-in;
+     -webkit-transition: all 0.3s ease-in;
+ }
+ #passworddiv
+{
+    display: none;
+}
+
+#enterOTPdiv{
+    display: none;
+}

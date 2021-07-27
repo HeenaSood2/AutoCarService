@@ -1,0 +1,17 @@
+#team img{
+     margin-top:-50px;
+ }
+ 
+ #team p{
+     font-weight:500;
+ }
+ 
+ .card
+ {
+     border-radius: 0;
+     box-shadow: 5px 5px 15px #817b7b;
+     transition:all 0.3s ease-in;
+     -webkit-transition: all 0.3s ease-in;
+ }
+
+ 
